@@ -1,6 +1,6 @@
 public class Circle {
     // data fields 
-    double radius = 1.0;
+    double radius = 2.0;
 
     // contructors - no args constructor
     Circle(){
